@@ -1,5 +1,7 @@
 # Tauri + React + Typescript
 
+![image](https://github.com/user-attachments/assets/f122f307-785d-4335-87e7-6979b3362bf3)
+
 How to make this:
 
 Get node setup and rust and pnpm.
